@@ -1,0 +1,9 @@
+name: SimpleNotes
+main: uk.co.geekycompz.notes.SimpleNotes
+version: 1.0
+description: >
+             Store notes, access them anytime...
+commands:
+    notes:
+        description: Base command for 'Notes'.
+        usage: /notes

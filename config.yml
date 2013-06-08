@@ -1,0 +1,8 @@
+#######################################################
+#    This is the configuration file for 'Notes'       #
+#  Here you may edit the settings to suit your needs  #
+#       This plugin was coded by GeekyCompz           #
+#######################################################
+
+# This is the prefix shown in chat, colour coding is supported (like &1) #
+Prefix: '&f[&l&oNOTES&f]'

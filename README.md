@@ -1,7 +1,7 @@
-SimpleSigns
+SimpleNotes
 ===========
 
-store signs, access them anytime...
+store notes, access them anytime...
 
 ===========
 
